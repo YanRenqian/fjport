@@ -1,0 +1,2 @@
+(this.webpackJsonpaaa=this.webpackJsonpaaa||[]).push([[0],{39:function(e,t,c){},47:function(e,t,c){"use strict";c.r(t);var n=c(15),s=c(27),a=(c(39),c(28)),o=c(20);function r(){return Object(o.jsx)(a.a,{scene:"./scene.splinecode"})}var i=document.getElementById("root");Object(s.createRoot)(i).render(Object(o.jsx)(n.StrictMode,{children:Object(o.jsx)(r,{})}))}},[[47,1,2]]]);
+//# sourceMappingURL=main.d6b3a491.chunk.js.map
